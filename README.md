@@ -81,7 +81,7 @@ I enjoy crafting clean UI, solving real-world problems, and turning ideas into p
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabilulbari&show_icons=true&theme=tokyonight&hide_border=true" height="190"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=sabilulbari&theme=tokyonight&hide_border=true" height="190"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabilulbari&theme=tokyonight&hide_border=true" height="190"/>
 </p>
 
 <p align="center">

@@ -36,6 +36,7 @@ const sabilulBari = {
   technologies: ["React", "Next.js", "Node.js", "MongoDB"],
   funFact: "I turn coffee into scalable interfaces ☕"
 };
+```
 
 ---
 

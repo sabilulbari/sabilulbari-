@@ -79,13 +79,22 @@ I enjoy crafting clean UI, solving real-world problems, and turning ideas into p
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabilulbari&show_icons=true&theme=tokyonight&hide_border=true" height="190"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabilulbari&theme=tokyonight&hide_border=true" height="190"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sabilulbari&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=sabilulbari&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabilulbari&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabilulbari&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
 
 ---

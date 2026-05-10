@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Sabilul Bari</h1>
+<h1 align="center">Hi , I'm Md Sabilul Bari</h1>
 <h3 align="center">MERN Stack Developer | Frontend Engineer | Building Modern Web Experiences</h3>
 
 <p align="center">

@@ -92,10 +92,6 @@ I enjoy crafting clean UI, solving real-world problems, and turning ideas into p
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabilulbari&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabilulbari&theme=tokyonight" />
-</p>
-
 ---
 
 # 🏆 GitHub Trophies
